@@ -1,0 +1,9 @@
+[
+    {
+        "type": "Movie",
+        "title": "jhon wick 2",
+        "genre": "action",
+        "watched": true,
+        "duration": 120
+    }
+]
